@@ -12,7 +12,7 @@ const connection = new Connection("https://api.devnet.solana.com", commitment);
 const token_decimals = 1_000_000n;
 
 // Mint address
-const mint = new PublicKey("4gnbgUxqhymcTabWZqhfVZb8MoS5KDCbSKpXcF7UNZto");
+const mint = new PublicKey("9tG73aqFNgBfAMGGySZ7M1gBMJjhQhFqnip3ZbKG6fDS");
 
 (async () => {
     try {
