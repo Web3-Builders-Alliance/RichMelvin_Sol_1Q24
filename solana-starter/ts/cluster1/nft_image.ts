@@ -17,10 +17,10 @@ umi.use(signerIdentity(myKeypairSigner));
 (async () => {
     try {
         //1. Load image. It is necessary to use the absolute path here.
-        const image = await readFile('/home/rgmelvinphd/wba/solana-starter/ts/cluster1/images/AdriL_face.jpeg');
+        const image = await readFile('/home/rgmelvinphd/wba/RichMelvin_Sol_1Q24/solana-starter/ts/cluster1/images/Alice.jpeg');
 
         //2. Convert image to generic file.
-        const nft_image = createGenericFile(image, "adriL_face.jpeg");
+        const nft_image = createGenericFile(image, "Alice.jpeg");
 
         //3. Upload image
         const [myUri] = await irysUploader.upload([nft_image]);

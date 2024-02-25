@@ -19,11 +19,11 @@ umi.use(irysUploader()).use(signerIdentity(signer));
 
         // image = 
         const metadata = {
-             name: "faces_0001",
+             name: "faces_0003",
              symbol: "FACE",
-             description: "face_0001",
+             description: "face_0003",
              // Image uri:
-             image: 'https://arweave.net/sZIa305u9hDHMtwXKDp4VvxoobGdpjLdTrf6gmOCfgg',
+             image: 'https://arweave.net/T7BZOMGTFVmWzXhb9xF5VoGEiqRgUdm2i2vNgSQoE-s',
              attributes: [
                  {trait_type: 'random', value: '?'}
              ],
@@ -32,7 +32,7 @@ umi.use(irysUploader()).use(signerIdentity(signer));
                      {
                          type: "image/png",
                          // image uri:
-                         uri: "https://arweave.net/sZIa305u9hDHMtwXKDp4VvxoobGdpjLdTrf6gmOCfgg"
+                         uri: "https://arweave.net/T7BZOMGTFVmWzXhb9xF5VoGEiqRgUdm2i2vNgSQoE-s"
                         },
                  ]
              },

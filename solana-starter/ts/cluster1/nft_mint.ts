@@ -15,7 +15,7 @@ umi.use(mplTokenMetadata())
 
 const name = "faces";
 // Metadata uri:
-const uri = 'https://arweave.net/jxRw5fqGOE1WQ-knb6cMXJNA4LAA2w4gnp3nxP8geC4';
+const uri = 'https://arweave.net/dHwdXcpPFI2RwLYxX9N9hFUttaM3QsGzw1Gz41MFc_w';
 const mint = generateSigner(umi);
 const sellerFeeBasisPoints = percentAmount(10, 2);
 
