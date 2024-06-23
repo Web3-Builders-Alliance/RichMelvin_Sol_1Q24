@@ -1,0 +1,10 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libspl_token-5786c85e6b34f5cf.rmeta: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/instruction.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/native_mint.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/processor.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/state.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/spl_token-5786c85e6b34f5cf.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/instruction.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/native_mint.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/processor.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/state.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/error.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/instruction.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/native_mint.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/processor.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.1/src/state.rs:

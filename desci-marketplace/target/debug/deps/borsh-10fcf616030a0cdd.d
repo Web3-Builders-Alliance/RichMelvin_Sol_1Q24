@@ -1,0 +1,11 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libborsh-10fcf616030a0cdd.rmeta: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/borsh-10fcf616030a0cdd.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs:

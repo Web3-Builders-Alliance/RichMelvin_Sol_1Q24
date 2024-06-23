@@ -1,0 +1,10 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libserde_bytes-e2a3b6bb634ac328.rmeta: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/serde_bytes-e2a3b6bb634ac328.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs:

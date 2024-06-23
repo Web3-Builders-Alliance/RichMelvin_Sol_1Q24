@@ -1,0 +1,10 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libspl_pod-794cf72156e33bec.rmeta: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/bytemuck.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/optional_keys.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/primitives.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/slice.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/spl_pod-794cf72156e33bec.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/bytemuck.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/optional_keys.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/primitives.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/slice.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/bytemuck.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/error.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/optional_keys.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/primitives.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.2.2/src/slice.rs:

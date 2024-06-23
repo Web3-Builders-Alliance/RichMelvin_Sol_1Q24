@@ -1,0 +1,9 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libnum_enum_derive-0b4fc998f153810e.dylib: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/num_enum_derive-0b4fc998f153810e.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs:

@@ -1,0 +1,8 @@
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/libspl_token_group_interface-183354dfcab838d4.rmeta: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/Users/richardmelvin/wba/desci-marketplace/target/debug/deps/spl_token_group_interface-183354dfcab838d4.d: /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs:
+/Users/richardmelvin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs:
